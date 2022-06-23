@@ -1,0 +1,13 @@
+.root{
+    -fx-background-color: black;
+}
+.button {
+    -fx-background-color: #4CAF50; /* Green */
+    -fx-border: none;
+    -fx-color: white;
+    -fx-padding: 5px 10px;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-display: inline-block;
+    -fx-font-size: 10px;
+  }
