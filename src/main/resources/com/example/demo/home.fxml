@@ -9,7 +9,7 @@
       <Button fx:id="home" layoutX="28.0" layoutY="30.0" mnemonicParsing="false" onAction="#switchToHome" text="Home" />
       <Button fx:id="graphs" layoutX="27.0" layoutY="74.0" mnemonicParsing="false" text="Graphs" />
       <Button fx:id="config" layoutX="27.0" layoutY="113.0" mnemonicParsing="false" text="Config" />
-      <Button fx:id="about" layoutX="27.0" layoutY="150.0" mnemonicParsing="false" onAction="#switchToAbout"  text="About" />
+      <Button fx:id="about" layoutX="27.0" layoutY="150.0" mnemonicParsing="false" onAction="#switchToAbout" text="About" />
       <Button fx:id="exit" layoutX="19.0" layoutY="354.0" mnemonicParsing="false" text="Exit" />
       <Label layoutX="286.0" layoutY="30.0" text="HOME" />
    </children>
