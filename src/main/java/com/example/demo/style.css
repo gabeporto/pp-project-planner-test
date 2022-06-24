@@ -11,3 +11,7 @@
     -fx-display: inline-block;
     -fx-font-size: 10px;
   }
+  .label {
+    -fx-color:white;
+    -fx-background-color: white;
+  }
